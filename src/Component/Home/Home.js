@@ -13,13 +13,13 @@ function Home() {
             <div className="home_row">
                 <Product
                 id='1'
-                title='The lean startup'
+                title='Atomic Habits: The life-changing million copy bestseller Paperback – 30 October 2018'
                 price={29.99}
                 image='https://m.media-amazon.com/images/I/91bYsX41DVL._AC_SY400_.jpg'
                 rating={3} />
                 <Product 
                 id='2'
-                title=" asdfkjasfd as dlfkjasfd asfd sf"
+                title=" OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)"
                 price={50.45}
                 image='https://m.media-amazon.com/images/I/71AvQd3VzqL._AC_SY400_.jpg'
                 rating={5} />
@@ -28,19 +28,19 @@ function Home() {
             <div className="home_row">
               <Product
               id='3'
-              title='jwieuvx,v skjfs fsf '
+              title='Samsung 198 L 4 Star Inverter Direct-Cool Single Door Refrigerator '
               price={30.11}
-              image='https://m.media-amazon.com/images/I/61JW4dXXnML._AC_UY327_FMwebp_QL65_.jpg'
+              image='https://m.media-amazon.com/images/I/71DJffKcMZL._AC_UY327_FMwebp_QL65_.jpg'
               rating={4}/>
               <Product
               id='4'
-              title='ohy yeksd0we kmsdfaosfijweff'
+              title='Borosil - Stainless Steel Hydra Trek - Vacuum Insulated Flask Water Bottle, Black, 500ML'
               price={6.99}
               image='https://m.media-amazon.com/images/I/51yz9sHMSSL._AC_UL480_FMwebp_QL65_.jpg'
               rating={3}/>
               <Product
               id='5'
-              title='one two three '
+              title='Usha Thunderbolt Mixer Grinder 800-Watt 3 Jars with Copper Motor(Red)'
               price={10.75}
               image='https://m.media-amazon.com/images/I/71BYRkQ2H8L._AC_UY327_FMwebp_QL65_.jpg'
               rating={3}/>
@@ -49,7 +49,7 @@ function Home() {
             <div className="home_row">
               <Product
               id='6'
-              title='the one and only pice in the world'
+              title='OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1'
               price={15.65}
               image='https://m.media-amazon.com/images/I/71vZypjNkPS._AC_UY327_FMwebp_QL65_.jpg'
               rating={4}/>
